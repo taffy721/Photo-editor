@@ -8,7 +8,7 @@ How to run without any problem:
 
 2. Using your terminal go into the same directory as the project
 
-3. Type pip install requirement.txt
+3. Type pip -r install requirement.txt
 
 4. While in the directory of the porject in the terminal type "python photoeditor.py" 
 
