@@ -4,11 +4,13 @@ I made a photo editor using python. One of my most impressive work since I'm sti
 
 How to run without any problem:
 
-1. Clone the project
+1.Open your terminal
 
-2. Using your terminal go into the same directory as the project
+2. Clone the project
 
-3. Type pip -r install requirement.txt
+3. Go into the same directory as the project
 
-4. While in the directory of the porject in the terminal type "python photoeditor.py" 
+4. Type pip -r install requirement.txt
+
+5. While in the directory of the porject in the terminal type "python photoeditor.py" 
 
